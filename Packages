@@ -108,10 +108,10 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/rockymountains.deb
-Size: 4810808
-MD5: 19d0d9eb91a3eeac8359288fa0a15ada
-SHA1: f2764bb45ef0356b84105a610c677d843aeef2be
-SHA256: a66201ff24130989d4490a17f8808276dc4a42fd7cf9f99d40823d38425db69a
+Size: 4810806
+MD5: 51f4b3289e1bc97e4b27842ddf80836d
+SHA1: 2a51c1e24f2b8459be1cc0c6461d5bd270847bbb
+SHA256: 34c3c8b3ac091f3b87e4801fffb2204c344882a1c541eb338fd0a156cc87bc5c
 Section: Themes (Respring Logo)
 Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
