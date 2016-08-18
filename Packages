@@ -28,7 +28,7 @@ Author: iProfessor <iprofessoror@gmail.com>
 Depiction: http://iprofessor.github.io/depictions/index.html
 Name: Blue Ridge Mountains Respring Logo Plus
 
-Package: com.iprofessoror.castlemountainrespringlogo
+Package: com.iprofessor.castlemountainrespringlogo
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
