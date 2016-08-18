@@ -1,0 +1,11 @@
+Package:com.iprofessoror.blueridgerespringlogo
+Name:Blue Ridge Mountains Respring Logo Plus
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Beautiful respring logo for iPhone 6/6s+.
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Author: iProfessor <iprofessoror@gmail.com>
+Section: Themes
+Conflicts: 
+
+

@@ -1,0 +1,150 @@
+Package: com.iprofessoror.augilleverterespring
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//respringlogos/aiguilleverte.deb
+Size: 4098374
+MD5: 5BC55BE03FB5B7EA48D666DF950A52DA
+SHA-1: D06070DAC8A2EF3176F8923D2979F30954D7BA9D
+SHA-256: FBDAC0AB7DBDED78D07C03C9A1C530D0A4F43DB85FA4167EACE6FEDD1816B06B
+Section: Themes
+Description: Beautiful respring logo for iPhone 6/6s+.
+Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
+Name: Augille Verte Mountain Respring Logo Plus
+
+Package: com.iprofessoror.blueridgerespringlogo
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//respringlogos/blueridge.deb
+Size: 3358020 
+MD5: 9B4F271962CC6ACB593FEF0833AAFAEE
+SHA-1: EB1BBD45F4476BD6F936F9793E7EB2401147FE3A
+SHA-256: A4AD47FDD0621FE0213DF295A41E67A61B08D76F0F86D2EAF10374F28F802F32
+Section: Themes
+Description: Beautiful respring logo for iPhone 6/6s+.
+Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
+Name: Blue Ridge Mountains Respring Logo Plus
+
+Package: com.iprofessor.castlemountainrespringlogo
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//respringlogos/castlemountain.deb
+Size: 6351162
+MD5: 559E7C1B995D87A5C92509DB969B7243
+SHA-1: C973E4AB7A5C8AC7CD817156EA5ED289B0FD7FFB
+SHA-256: E227FF8DE0C6AA7212FB9DEFC6A2222B250CA36F46AE835CF78E20BC43CC3097
+Section: Themes
+Description: Beautiful respring logo for iPhone 6/6s+.
+Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
+Name: Castle Mountain Respring Logo Plus
+
+Package: com.iprofessoror.grandcanyonlogoplus
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//respringlogos/grandcanyon.deb
+Size: 10017354
+MD5: 5CE74B6E50FB2E75CC63A3C34E9E95A2
+SHA-1: 487790D129C4737864664EACFF3A6C7C0C51A6EF
+SHA-256: E348893A0CBBF91D8A7E810E8482D639C347E8661EAB416A4C98A9547DB6B09B
+Section: Themes
+Description: Beautiful respring logo for iPhone 6/6s+.
+Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
+Name: Grand Canyon Respring Logo Plus
+
+Package: com.iprofessoror.jokulsarlonlagoonlogoplus
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//respringlogos/jokulsarlon.deb
+Size: 4075056
+MD5: 7AEFEDD225972A893FDE591763378ECF
+SHA-1: 04D8CF36F7514809011C75AADF5F3FFE5893B59E
+SHA-256: B524176E37028D8B97ADEFBDC3CB981FB31D4C866B12644EAB4C1F7C4EA8DD17
+Section: Themes
+Description: Beautiful respring logo for iPhone 6/6s+.
+Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
+Name: Jökulsárlón Lagoon Respring Logo Plus
+
+Package: com.iprofessoror.mounteverestlogoplus
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//respringlogos/mteverest.deb
+Size: 4613010
+MD5: 36EB377F2D269DC3B13DF945E1596B17
+SHA-1: 269304509D1375AEA55CEEA03992A0DDB1722878
+SHA-256: 97F75656FAF8D97324275F9DCC31A034A44803508CB1F369154DDD801EC42C82
+Section: Themes
+Description: Beautiful respring logo for iPhone 6/6s+.
+Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
+Name: Mount Everest Respring Logo Plus
+
+Package: com.iprofessoror.mountshastalogoplus
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//respringlogos/mtshasta.deb
+Size: 2643380
+MD5: 16D240DB7C895C522499FDBD6321DA90
+SHA-1: 5C979ECB255CD2090F463817D699AB16F0D5C0F6
+SHA-256: 64FF319CA293475A3BC7D26FAA9BCCFC957BF87EFBEBDD3FC98BCB072B2BCD6C
+Section: Themes
+Description: Beautiful respring logo for iPhone 6/6s+.
+Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
+Name: Mount Shasta Respring Logo Plus
+
+Package: com.iprofessoror.rockymountainslogoplus
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//respringlogos/rockymountains.deb
+Size: 4810806
+MD5: 06B7B56C3A6CE6CAC9AFF67DD7BB3A53
+SHA-1: C71AC603BB422A0BC3A0E78F1C535FA4510C8D75
+SHA-256: 038672D0E075B73F6D0C8DC17998DF15477727FB37FB96ED35CBAF028729B894
+Section: Themes
+Description: Beautiful respring logo for iPhone 6/6s+.
+Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
+Name: Rocky Mountains Respring Logo Plus
+
+Package: com.iprofessoror.traunsteinsummitlogoplus
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//respringlogos/traunstein.deb
+Size: 2519456
+MD5: AE5EAA044FA0697EC4B0942626DACE60
+SHA-1: 33C49961226D635D100981F610C471EF1D6A7F35
+SHA-256: B29F6608FCDEC288E88E45BEB51117AC335F842AD7058DE38F5EDCA7C9D01D8E
+Section: Themes
+Description: Beautiful respring logo for iPhone 6/6s+.
+Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
+Name: Traunstein Summit Respring Logo Plus
+
+Package: com.iprofessoror.weminuchewildernesslogoplus
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//respringlogos/weminuchewilderness.deb
+Size: 4523896
+MD5: 7B0DA3AC77544AC23D7485671A3BAEED
+SHA-1: 5AFF5EDC5407C14DBDDDF43529DDE700C8F56340
+SHA-256: 2E4796A555B815B53A650BA936985C8FD1EBF0DEF7395C2EA1261B4CE01EF55C
+Section: Themes
+Description: Beautiful respring logo for iPhone 6/6s+.
+Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
+Name: Weminuche Wilderness Respring Logo Plus
+
