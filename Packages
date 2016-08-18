@@ -5,8 +5,8 @@ Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/aiguilleverte.deb
 Size: 4098374
 MD5: 5bc55be03fb5b7ea48d666df950a52da
-SHA-1: d06070dac8a2ef3176f8923d2979f30954d7ba9d
-SHA-256: fbdac0ab7dbded78d07c03c9a1c530d0a4f43db85fa4167eace6fedd1816b06b
+SHA1: d06070dac8a2ef3176f8923d2979f30954d7ba9d
+SHA256: fbdac0ab7dbded78d07c03c9a1c530d0a4f43db85fa4167eace6fedd1816b06b
 Section: Themes (Respring Logo)
 Homepage: iprofessor.github.io
 Description: Beautiful respring logo for iPhone 6/6s+.
@@ -20,8 +20,8 @@ Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/blueridge.deb
 Size: 3358020 
 MD5: 9b4f271962cc6acb593fef0833aafaee
-SHA-1: eb1bbd45f4476bd6f936f9793e7eb2401147fe3a
-SHA-256: a4ad47fdd0621fe0213df295a41e67a61b08d76f0f86d2eaf10374f28f802f32
+SHA1: eb1bbd45f4476bd6f936f9793e7eb2401147fe3a
+SHA256: a4ad47fdd0621fe0213df295a41e67a61b08d76f0f86d2eaf10374f28f802f32
 Section: Themes (Respring Logo)
 Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
@@ -35,8 +35,8 @@ Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/castlemountain.deb
 Size: 6351162
 MD5: 559e7c1b995d87a5c92509db969b7243
-SHA-1: c973e4ab7a5c8ac7cd817156ea5ed289b0fd7ffb
-SHA-256: e227ff8de0c6aa7212fb9defc6a2222b250ca36f46ae835cf78e20bc43cc3097
+SHA1: c973e4ab7a5c8ac7cd817156ea5ed289b0fd7ffb
+SHA256: e227ff8de0c6aa7212fb9defc6a2222b250ca36f46ae835cf78e20bc43cc3097
 Section: Themes (Respring Logo)
 Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
@@ -50,8 +50,8 @@ Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/grandcanyon.deb
 Size: 10017354
 MD5: 5ce74b6e50fb2e75cc63a3c34e9e95a2
-SHA-1: 487790d129c4737864664eacff3a6c7c0c51a6ef
-SHA-256: e348893a0cbbf91d8a7e810e8482d639c347e8661eab416a4c98a9547db6b09b
+SHA1: 487790d129c4737864664eacff3a6c7c0c51a6ef
+SHA256: e348893a0cbbf91d8a7e810e8482d639c347e8661eab416a4c98a9547db6b09b
 Section: Themes (Respring Logo)
 Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
@@ -65,8 +65,8 @@ Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/jokulsarlon.deb
 Size: 4075056
 MD5: 7aefedd225972a893fde591763378ecf
-SHA-1: 04d8cf36f7514809011c75aadf5f3ffe5893b59e
-SHA-256: b524176e37028d8b97adefbdc3cb981fb31d4c866b12644eab4c1f7c4ea8dd17
+SHA1: 04d8cf36f7514809011c75aadf5f3ffe5893b59e
+SHA256: b524176e37028d8b97adefbdc3cb981fb31d4c866b12644eab4c1f7c4ea8dd17
 Section: Themes (Respring Logo)
 Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
@@ -80,8 +80,8 @@ Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/mteverest.deb
 Size: 4613010
 MD5: 36eb377f2d269dc3b13df945e1596b17
-SHA-1: 269304509d1375aea55ceea03992a0ddb1722878
-SHA-256: 97f75656faf8d97324275f9dcc31a034a44803508cb1f369154ddd801ec42c82
+SHA1: 269304509d1375aea55ceea03992a0ddb1722878
+SHA256: 97f75656faf8d97324275f9dcc31a034a44803508cb1f369154ddd801ec42c82
 Section: Themes (Respring Logo)
 Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
@@ -95,8 +95,8 @@ Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/mtshasta.deb
 Size: 2643380
 MD5: 16d240db7c895c522499fdbd6321da90
-SHA-1: 5c979ecb255cd2090f463817d699ab16f0d5c0f6
-SHA-256: 64ff319ca293475a3bc7d26faa9bccfc957bf87efbebdd3fc98bcb072b2bcd6c
+SHA1: 5c979ecb255cd2090f463817d699ab16f0d5c0f6
+SHA256: 64ff319ca293475a3bc7d26faa9bccfc957bf87efbebdd3fc98bcb072b2bcd6c
 Section: Themes (Respring Logo)
 Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
@@ -110,8 +110,8 @@ Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/rockymountains.deb
 Size: 4810806
 MD5: 06b7b56c3a6ce6cac9aff67dd7bb3a53
-SHA-1: c71ac603bb422a0bc3a0e78f1c535fa4510c8d75
-SHA-256: 038672d0e075b73f6d0c8dc17998df15477727fb37fb96ed35cbaf028729b894
+SHA1: c71ac603bb422a0bc3a0e78f1c535fa4510c8d75
+SHA256: 038672d0e075b73f6d0c8dc17998df15477727fb37fb96ed35cbaf028729b894
 Section: Themes (Respring Logo)
 Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
@@ -125,8 +125,8 @@ Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/traunstein.deb
 Size: 2519456
 MD5: ae5eaa044fa0697ec4b0942626dace60
-SHA-1: 33c49961226d635d100981f610c471ef1d6a7f35
-SHA-256: b29f6608fcdec288e88e45beb51117ac335f842ad7058de38f5edca7c9d01d8e
+SHA1: 33c49961226d635d100981f610c471ef1d6a7f35
+SHA256: b29f6608fcdec288e88e45beb51117ac335f842ad7058de38f5edca7c9d01d8e
 Section: Themes (Respring Logo)
 Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
@@ -140,8 +140,8 @@ Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/weminuchewilderness.deb
 Size: 4523896
 MD5: 7b0da3ac77544ac23d7485671a3baeed
-SHA-1: 5aff5edc5407c14dbdddf43529dde700c8f56340
-SHA-256: 2e4796a555b815b53a650ba936985c8fd1ebf0def7395c2ea1261b4ce01ef55c
+SHA1: 5aff5edc5407c14dbdddf43529dde700c8f56340
+SHA256: 2e4796a555b815b53a650ba936985c8fd1ebf0def7395c2ea1261b4ce01ef55c
 Section: Themes (Respring Logo)
 Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
