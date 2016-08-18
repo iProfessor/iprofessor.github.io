@@ -1,4 +1,4 @@
-Package: com.iprofessoror.augilleverterespring
+Package: com.iprofessor.augilleverterespring
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
@@ -13,7 +13,7 @@ Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
 Name: Augille Verte Mountain Respring Logo Plus
 
-Package: com.iprofessoror.blueridgerespringlogo
+Package: com.iprofessor.blueridgerespringlogo
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
@@ -43,7 +43,7 @@ Author: iProfessor <iprofessoror@gmail.com>
 Depiction: http://iprofessor.github.io/depictions/index.html
 Name: Castle Mountain Respring Logo Plus
 
-Package: com.iprofessoror.grandcanyonlogoplus
+Package: com.iprofessor.grandcanyonlogoplus
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
@@ -58,7 +58,7 @@ Author: iProfessor <iprofessoror@gmail.com>
 Depiction: http://iprofessor.github.io/depictions/index.html
 Name: Grand Canyon Respring Logo Plus
 
-Package: com.iprofessoror.jokulsarlonlagoonlogoplus
+Package: com.iprofessor.jokulsarlonlagoonlogoplus
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
@@ -73,7 +73,7 @@ Author: iProfessor <iprofessoror@gmail.com>
 Depiction: http://iprofessor.github.io/depictions/index.html
 Name: Jökulsárlón Lagoon Respring Logo Plus
 
-Package: com.iprofessoror.mounteverestlogoplus
+Package: com.iprofessor.mounteverestlogoplus
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
@@ -88,7 +88,7 @@ Author: iProfessor <iprofessoror@gmail.com>
 Depiction: http://iprofessor.github.io/depictions/index.html
 Name: Mount Everest Respring Logo Plus
 
-Package: com.iprofessoror.mountshastalogoplus
+Package: com.iprofessor.mountshastalogoplus
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
@@ -103,7 +103,7 @@ Author: iProfessor <iprofessoror@gmail.com>
 Depiction: http://iprofessor.github.io/depictions/index.html
 Name: Mount Shasta Respring Logo Plus
 
-Package: com.iprofessoror.rockymountainslogoplus
+Package: com.iprofessor.rockymountainslogoplus
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
@@ -118,7 +118,7 @@ Author: iProfessor <iprofessoror@gmail.com>
 Depiction: http://iprofessor.github.io/depictions/index.html
 Name: Rocky Mountains Respring Logo Plus
 
-Package: com.iprofessoror.traunsteinsummitlogoplus
+Package: com.iprofessor.traunsteinsummitlogoplus
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
@@ -133,7 +133,7 @@ Author: iProfessor <iprofessoror@gmail.com>
 Depiction: http://iprofessor.github.io/depictions/index.html
 Name: Traunstein Summit Respring Logo Plus
 
-Package: com.iprofessoror.weminuchewildernesslogoplus
+Package: com.iprofessor.weminuchewildernesslogoplus
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
