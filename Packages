@@ -4,13 +4,11 @@ Architecture: iphoneos-arm
 Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//respringlogos/aiguilleverte.deb
 Size: 4098374
-MD5: 5BC55BE03FB5B7EA48D666DF950A52DA
-SHA-1: D06070DAC8A2EF3176F8923D2979F30954D7BA9D
-SHA-256: FBDAC0AB7DBDED78D07C03C9A1C530D0A4F43DB85FA4167EACE6FEDD1816B06B
 Section: Themes
 Homepage: iprofessor.github.io
 Description: Beautiful respring logo for iPhone 6/6s+.
 Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
 Name: Augille Verte Mountain Respring Logo Plus
 
 Package: com.iprofessoror.blueridgerespringlogo
