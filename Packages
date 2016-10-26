@@ -148,3 +148,18 @@ Author: iProfessor <iprofessoror@gmail.com>
 Depiction: http://iprofessor.github.io/depictions/index.html
 Name: Weminuche Wilderness Respring Logo Plus
 
+Package: com.iprofessor.lagnif
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: me.chewitt.fingal
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//addons/lagnif.deb
+Size: 1279004
+MD5: 39dfd3b3d4ed3b4cc65d024077d3092b
+SHA1: 610f5928029a4e13a5a37551d9cfdd84f6924475
+SHA256: dc034f50dd1017f43716f2c2e2b52ef3130ada4e78e9e573e19758fd52a15c64
+Section: Addons (Fingal)
+Description: Cool animations for Fingal.
+Author: iProfessor <iprofessoror@gmail.com>
+Depiction: http://iprofessor.github.io/depictions/index.html
+Name: lagnif
