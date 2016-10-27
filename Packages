@@ -164,15 +164,15 @@ Author: iProfessor <iprofessoror@gmail.com>
 Name: lagnif
 
 Package: com.iprofessor.lagnif
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Depends: me.chewitt.fingal
 Maintainer: iProfessor <iprofessoror@gmail.com>
-Filename: debs//addons/lagnif1.deb
-Size: 3171254
-MD5: 690db261f5f2a1ae36e832806a199640
-SHA1: 697788a8f2600e0a63316d1672c4cdd546245bf1
-SHA256: ee12bef8293ec24d11aaf7f7ea19dcd420d4fb71b12e3336604db17067863bb7
+Filename: debs//addons/lagnif101.deb
+Size: 3171258
+MD5: 997526587e1c30b9a518a5c272d46694
+SHA1: 5f8d4aab68d3e5911ec58708a12ebc24e5ddc125
+SHA256: 7717a1d03f1d89ab4a049ff00ed9da78e2a6d5db83ce3d0f56dc3080bb0057ee
 Section: Addons (Fingal)
 Description: Cool animations for Fingal.
 Author: iProfessor <iprofessoror@gmail.com>
