@@ -192,3 +192,18 @@ Section: Addons (Fingal)
 Description: Cool animations for Fingal.
 Author: iProfessor <iprofessoror@gmail.com>
 Name: lagnif
+
+Package: com.iprofessor.lagnif
+Version: 1.0.3
+Architecture: iphoneos-arm
+Depends: me.chewitt.fingal
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//addons/lagnif103.deb
+Size: 6301926
+MD5: 481693996927b051a33205f465d42d83
+SHA1: 02f1de3c12ddc6fd6a90902840eca91d0102106c
+SHA256: c801792f44715af7bed17d373d8746393102ca8bbe3d8ae363de1f9f039d296b
+Section: Addons (Fingal)
+Description: Cool animations for Fingal.
+Author: iProfessor <iprofessoror@gmail.com>
+Name: lagnif
