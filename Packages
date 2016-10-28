@@ -211,7 +211,7 @@ Name: lagnif
 Package: com.iprofessor.glitchykernel
 Version: 1.0
 Architecture: iphoneos-arm
-Depends: me.chewitt.fingal
+Depends: com.aditkamath.springy
 Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//addons/glitchykernel.deb
 Size: 34591200
