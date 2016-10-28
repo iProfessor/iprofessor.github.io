@@ -207,3 +207,18 @@ Section: Addons (Fingal)
 Description: Cool animations for Fingal.
 Author: iProfessor <iprofessoror@gmail.com>
 Name: lagnif
+
+Package: com.iprofessor.glitchykernel
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: me.chewitt.fingal
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//addons/glitchykernel.deb
+Size: 34591200
+MD5: d34ec6f6147b4707e20f6f2370f21e46
+SHA1: b96d16ec22a3e41c8eb3c3548d4b9587197aaade
+SHA256: a608909180d82378be8a655946d29f7d33a49fe5998a10ae483cb3c632fd71e4
+Section: Addons (Springy)
+Description: Super glitchy animated repring logo.
+Author: iProfessor <iprofessoror@gmail.com>
+Name: Glitchy Kernel
