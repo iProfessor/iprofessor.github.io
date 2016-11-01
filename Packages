@@ -225,7 +225,7 @@ Name: Glitchy Kernel
 Depiction: 
 
 Package: com.iprofessor.taurus
-Version: 1.0
+Version: 0.1
 Architecture: iphoneos-arm
 Depends: com.aditkamath.springy
 Maintainer: iProfessor <iprofessoror@gmail.com>
@@ -241,7 +241,7 @@ Name: Taurus
 Depiction: 
 
 Package: com.iprofessor.virgo
-Version: 1.0
+Version: 0.1
 Architecture: iphoneos-arm
 Depends: com.aditkamath.springy
 Maintainer: iProfessor <iprofessoror@gmail.com>
