@@ -230,12 +230,28 @@ Architecture: iphoneos-arm
 Depends: com.aditkamath.springy
 Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//addons/taurus.deb
-Size: 933504
-MD5: 8997766c927cc21c37ae8cf9ce9215d7
-SHA1: a45d2fa3129683e4a7df9491a433cf40c006706e
-SHA256: 51726126575d0882e2bd8a2b1d0d42a0757cf9cc78e0d0d9ea2a250ee1b7a7d9 
+Size: 933506
+MD5: 991b273bec5e9e1109d23e8d12ca7c86
+SHA1: 86fe3e35c1d7ca203c9c4edcf4a71344eaf835a4
+SHA256: 04795e6924819fedf79621d694c5f8307d5552555168c11ca4a752fb170d1eda 
 Section: Addons (Springy)
 Description: Animated (kinda) Taurus zodiac sign for Springy.
 Author: iProfessor <iprofessoror@gmail.com>
 Name: Taurus
+Depiction: 
+
+Package: com.iprofessor.virgo
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.aditkamath.springy
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//addons/virgo.deb
+Size: 1353372
+MD5: 564f6f1a0b24a8347d20e096c602c779
+SHA1: 2e9a24f801475ab6ac62dc8cd5a146fecd2c91c0
+SHA256: cd3c30b65447e7218dc18ea68b9466cebfae9b953f42fe816c2e56b6f5392d66
+Section: Addons (Springy)
+Description: Animated (kinda) Virgo zodiac sign for Springy.
+Author: iProfessor <iprofessoror@gmail.com>
+Name: Virgo
 Depiction: 
