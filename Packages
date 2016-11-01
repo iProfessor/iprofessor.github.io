@@ -222,4 +222,20 @@ Section: Addons (Springy)
 Description: Super glitchy animated repring logo.
 Author: iProfessor <iprofessoror@gmail.com>
 Name: Glitchy Kernel
-Depiction: http://iprofessor.github.io/depictions/com.iprofessor.glitchykernel/index.php
+Depiction: 
+
+Package: com.iprofessor.taurus
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.aditkamath.springy
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//addons/taurus.deb
+Size: 933504
+MD5: 8997766c927cc21c37ae8cf9ce9215d7
+SHA1: a45d2fa3129683e4a7df9491a433cf40c006706e
+SHA256: 51726126575d0882e2bd8a2b1d0d42a0757cf9cc78e0d0d9ea2a250ee1b7a7d9 
+Section: Addons (Springy)
+Description: Animated (kinda) Taurus zodiac sign for Springy.
+Author: iProfessor <iprofessoror@gmail.com>
+Name: Taurus
+Depiction: 
