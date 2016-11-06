@@ -271,3 +271,19 @@ Description: Animated (kinda) Taurus zodiac sign for Springy.
 Author: iProfessor <iprofessoror@gmail.com>
 Name: Taurus
 Depiction: 
+
+Package: com.iprofessor.colorexplosion
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.aditkamath.springy
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//addons/colorexplosion.deb
+Size: 99998186
+MD5: fb72433a78ffd14c92a074eade6caf55
+SHA1: 6608ebefde4a606d92c10b6defef5bff4ef0c163
+SHA256: d89b3ad0bce9afa98350b5f2f6b559b5dc571573ccf703f92686995b5fb35b87
+Section: Addons (Springy)
+Description: An animated burst of dust as a respring logo!
+Author: iProfessor <iprofessoror@gmail.com>
+Name: Color Explosion
+Depiction: 
