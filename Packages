@@ -287,3 +287,19 @@ Description: An animated burst of dust as a respring logo!
 Author: iProfessor <iprofessoror@gmail.com>
 Name: Dusty Apple
 Depiction: 
+
+Package: com.iprofessor.hello
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.aditkamath.springy
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//addons/hello.deb
+Size: 2132052
+MD5: 5fc5f2166e8f3f94dc4b6934a8c89fc0
+SHA1: a2321949cfebcaf985ddefea73a386d9b4a87206
+SHA256: 1c993eac415cb5beb3a4501688f5fab3204d686de2d2527a015e40b23e0b7a6c
+Section: Addons (Springy)
+Description: A nice respring logo from Apple's iPhone 7 ad.
+Author: iProfessor <iprofessoror@gmail.com>
+Name: Hello Everybody.
+Depiction: 
