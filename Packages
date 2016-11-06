@@ -257,15 +257,15 @@ Name: Virgo
 Depiction: 
 
 Package: com.iprofessor.taurus
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Depends: com.aditkamath.springy
 Maintainer: iProfessor <iprofessoror@gmail.com>
-Filename: debs//addons/taurus2.deb
-Size: 2339650
-MD5: 714c05b7b0076f8930792b727fed33ea
-SHA1: 851cefbab7e10d7492ff17fdd3817e201a73b2c4
-SHA256: e73e7ae85329ddafc94434d9688a742d0a2e7fea9259d8af9618443d7972b818
+Filename: debs//addons/taurus2.1.deb
+Size: 1562120
+MD5: 31bb39b4efd639546da18f8bcbf4f892
+SHA1: a0ef68dbfef492512ad70125d50dd1172fcd01b1
+SHA256: fec51a1c465d69a2b6f24a98671d137ee2ea0d3c715cfb6e5fc251bb2584ef8c
 Section: Addons (Springy)
 Description: Animated (kinda) Taurus zodiac sign for Springy.
 Author: iProfessor <iprofessoror@gmail.com>
