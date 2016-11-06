@@ -303,3 +303,19 @@ Description: A nice respring logo from Apple's iPhone 7 ad.
 Author: iProfessor <iprofessoror@gmail.com>
 Name: Hello Everybody.
 Depiction: 
+
+Package:com.iprofessor.progressbar
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.aditkamath.springy
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//addons/progressbar.deb
+Size: 4863344
+MD5: 0af565d58db101c79d1d8fabf0eb34da
+SHA1: d23a2c94586266e06cfb3c148051da6342a49253
+SHA256: 6a41b1c62b830de7838a5ae745aae70d5c35b808db60133008f49ffc7cf6ddf4
+Section: Addons (Springy)
+Description:Nice little progress bar for Springy!
+Author: iProfessor <iprofessoror@gmail.com>
+Name:Progress Bar
+Depiction: 
