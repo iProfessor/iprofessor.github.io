@@ -272,18 +272,18 @@ Author: iProfessor <iprofessoror@gmail.com>
 Name: Taurus
 Depiction: 
 
-Package: com.iprofessor.colorexplosion
+Package: com.iprofessor.dustyapple
 Version: 1.0
 Architecture: iphoneos-arm
 Depends: com.aditkamath.springy
 Maintainer: iProfessor <iprofessoror@gmail.com>
-Filename: debs//addons/colorexplosion.deb
-Size: 99998184
-MD5: b5c9fd089935f27767595d45e0af713d
-SHA1: bfc2fedc2a762a7cecbaa7694a9197cd02c78531
-SHA256: bbea9b588e6f271254a850dcdd07af901147dac1af04a0c08371134b14963f69
+Filename: debs//addons/dustyapple.deb
+Size: 3115372
+MD5: 27f8a0128f0d24f89ab633ca61b23dbd
+SHA1: 95cb5afc8775ff95721b5b0d5524880f52e27970
+SHA256: fa5100c5ab91ceecae41c5b3404a154740a4355a6501e163170c27445453bcdc
 Section: Addons (Springy)
 Description: An animated burst of dust as a respring logo!
 Author: iProfessor <iprofessoror@gmail.com>
-Name: Color Explosion
+Name: Dusty Apple
 Depiction: 
