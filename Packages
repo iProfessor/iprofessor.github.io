@@ -278,10 +278,10 @@ Architecture: iphoneos-arm
 Depends: com.aditkamath.springy
 Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//addons/colorexplosion.deb
-Size: 99998186
-MD5: fb72433a78ffd14c92a074eade6caf55
-SHA1: 6608ebefde4a606d92c10b6defef5bff4ef0c163
-SHA256: d89b3ad0bce9afa98350b5f2f6b559b5dc571573ccf703f92686995b5fb35b87
+Size: 99998184
+MD5: b5c9fd089935f27767595d45e0af713d
+SHA1: bfc2fedc2a762a7cecbaa7694a9197cd02c78531
+SHA256: bbea9b588e6f271254a850dcdd07af901147dac1af04a0c08371134b14963f69
 Section: Addons (Springy)
 Description: An animated burst of dust as a respring logo!
 Author: iProfessor <iprofessoror@gmail.com>
