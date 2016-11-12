@@ -312,8 +312,8 @@ Maintainer: iProfessor <iprofessoror@gmail.com>
 Filename: debs//addons/progressbar1.1.deb
 Size: 5184574
 MD5: 39347b3769052e3e140bf3744e4097ba
-SHA-1: 7381bfd1d3ccecc656595a4b0474a4b8c42831a8
-SHA-256: 9a26f9f93f64c6412f343e1f490f7d89c146d16b01d0da64e25c683c76c868d9
+SHA1: 7381bfd1d3ccecc656595a4b0474a4b8c42831a8
+SHA256: 9a26f9f93f64c6412f343e1f490f7d89c146d16b01d0da64e25c683c76c868d9
 Section: Addons (Springy)
 Description:Nice little progress bar for Springy!
 Author: iProfessor <iprofessoror@gmail.com>
