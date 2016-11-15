@@ -319,3 +319,19 @@ Description:Nice little progress bar for Springy!
 Author: iProfessor <iprofessoror@gmail.com>
 Name:Progress Bar
 Depiction: 
+
+Package:com.iprofessor.bonjour
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.aditkamath.springy
+Maintainer: iProfessor <iprofessoror@gmail.com>
+Filename: debs//addons/bonjour.deb
+Size: 7795916
+MD5: ed755fa543b7206e848248d0da558e58
+SHA1: 0aa5108eb5e74a1c49527ee6b5732a84c375f2d3
+SHA256: b2fb45076babbdf6bb7a2f7b00a622eaafc45a8ca3505ca36571657c54f6c57c
+Section: Addons (Springy)
+Description:Nice little animated message for Springy!
+Author: iProfessor <iprofessoror@gmail.com>
+Name:bonjour
+Depiction: 
